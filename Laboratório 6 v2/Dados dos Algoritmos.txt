@@ -1,0 +1,78 @@
+Tempo gasto: 0,57; Memoria gasta: 3,37
+Tempo gasto: 2,58; Memoria gasta: 3,71
+Tempo gasto: 9,07; Memoria gasta: 4,33
+Tempo gasto: 32,96; Memoria gasta: 5,55
+Tempo gasto: 134,28; Memoria gasta: 7,98
+Tempo gasto: 575,80; Memoria gasta: 12,86
+Tempo gasto: 2239,08; Memoria gasta: 22,63
+
+Tempo gasto: 2,20; Memoria gasta: 22,63
+Tempo gasto: 9,00; Memoria gasta: 22,63
+Tempo gasto: 36,39; Memoria gasta: 22,63
+Tempo gasto: 144,03; Memoria gasta: 23,38
+Tempo gasto: 562,68; Memoria gasta: 25,82
+Tempo gasto: 2248,69; Memoria gasta: 30,00
+Tempo gasto: 9099,95; Memoria gasta: 38,05
+
+Tempo gasto: 1,17; Memoria gasta: 38,05
+Tempo gasto: 4,70; Memoria gasta: 38,05
+Tempo gasto: 18,57; Memoria gasta: 38,05
+Tempo gasto: 74,39; Memoria gasta: 39,12
+Tempo gasto: 299,84; Memoria gasta: 41,57
+Tempo gasto: 1222,95; Memoria gasta: 46,45
+Tempo gasto: 4926,22; Memoria gasta: 55,69
+
+--------------------------------------------------
+
+Tempo gasto: 0,56; Memoria gasta: 55,69
+Tempo gasto: 2,14; Memoria gasta: 55,69
+Tempo gasto: 8,57; Memoria gasta: 55,69
+Tempo gasto: 35,10; Memoria gasta: 55,69
+Tempo gasto: 138,37; Memoria gasta: 55,69
+Tempo gasto: 566,93; Memoria gasta: 55,69
+Tempo gasto: 2369,20; Memoria gasta: 55,69
+
+Tempo gasto: 0,53; Memoria gasta: 55,69
+Tempo gasto: 2,14; Memoria gasta: 55,69
+Tempo gasto: 8,72; Memoria gasta: 55,69
+Tempo gasto: 34,77; Memoria gasta: 55,69
+Tempo gasto: 139,68; Memoria gasta: 55,69
+Tempo gasto: 562,08; Memoria gasta: 55,69
+Tempo gasto: 2614,28; Memoria gasta: 63,31
+
+Tempo gasto: 0,62; Memoria gasta: 63,31
+Tempo gasto: 2,51; Memoria gasta: 63,31
+Tempo gasto: 10,11; Memoria gasta: 63,31
+Tempo gasto: 40,32; Memoria gasta: 63,31
+Tempo gasto: 161,19; Memoria gasta: 63,31
+Tempo gasto: 656,70; Memoria gasta: 63,31
+Tempo gasto: 2835,95; Memoria gasta: 65,06
+
+--------------------------------------------------
+
+Tempo gasto: 0,00; Memoria gasta: 65,06
+Tempo gasto: 0,00; Memoria gasta: 65,06
+Tempo gasto: 0,00; Memoria gasta: 65,06
+Tempo gasto: 0,00; Memoria gasta: 65,06
+Tempo gasto: 0,00; Memoria gasta: 65,06
+Tempo gasto: 0,00; Memoria gasta: 65,06
+Tempo gasto: 0,00; Memoria gasta: 74,52
+
+Tempo gasto: 0,24; Memoria gasta: 74,67
+Tempo gasto: 0,94; Memoria gasta: 74,98
+Tempo gasto: 3,83; Memoria gasta: 75,59
+Tempo gasto: 15,24; Memoria gasta: 76,81
+Tempo gasto: 61,32; Memoria gasta: 79,25
+Tempo gasto: 259,29; Memoria gasta: 84,15
+Tempo gasto: 1175,50; Memoria gasta: 93,92
+
+Tempo gasto: 0,50; Memoria gasta: 94,07
+Tempo gasto: 1,98; Memoria gasta: 94,38
+Tempo gasto: 8,33; Memoria gasta: 94,99
+Tempo gasto: 32,69; Memoria gasta: 96,21
+Tempo gasto: 135,69; Memoria gasta: 98,66
+Tempo gasto: 567,52; Memoria gasta: 103,55
+Tempo gasto: 2439,91; Memoria gasta: 112,79
+
+--------------------------------------------------
+

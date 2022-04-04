@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1647996164 source:d:\users\1320209\desktop\laboratório 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"Bolha\bolha.h"
+
+1647996602 d:\users\1320209\desktop\laboratório 6\bolha\bolha.h
+
+1648747305 source:c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6\main.c
+	<stdlib.h>
+	<stdint.h>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+	<time.h>
+	"bolha.h"
+	"countingsort.h"
+	"heapsort.h"
+	"insercao.h"
+	"mergesort.h"
+	"quicksort.h"
+	"selecao.h"
+	"shellsort.h"
+
+1648727345 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6\bolha.h
+	<stdio.h>
+	<locale.h>
+	"geracao.h"
+
+1648122312 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6\countingsort.h
+	"geracao.h"
+	"countingsort.h"
+
+1648122314 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6\geracao.h
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+
+1648123352 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6\heapsort.h
+	<stdint.h>
+	<stdlib.h>
+	"geracao.h"
+
+1648578009 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6\insercao.h
+	"geracao.h"
+
+1648122315 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6\mergesort.h
+	<stdlib.h>
+	"geracao.h"
+
+1648122538 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6\quicksort.h
+	<stdio.h>
+	"geracao.h"
+
+1648578009 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6\selecao.h
+	"geracao.h"
+
+1648123057 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6\shellsort.h
+	"geracao.h"
+
+1648848494 source:c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6 v2\main.c
+	<stdlib.h>
+	<stdint.h>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<winbase.h>
+	<psapi.h>
+	<time.h>
+	"bolha.h"
+	"countingsort.h"
+	"heapsort.h"
+	"insercao.h"
+	"mergesort.h"
+	"quicksort.h"
+	"selecao.h"
+	"shellsort.h"
+
+1648727345 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6 v2\bolha.h
+	<stdio.h>
+	<locale.h>
+	"geracao.h"
+
+1648122314 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6 v2\geracao.h
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<stdlib.h>
+	<stdint.h>
+	<stdbool.h>
+
+1648122312 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6 v2\countingsort.h
+	"geracao.h"
+	"countingsort.h"
+
+1648123352 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6 v2\heapsort.h
+	<stdint.h>
+	<stdlib.h>
+	"geracao.h"
+
+1648578009 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6 v2\insercao.h
+	"geracao.h"
+
+1648122315 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6 v2\mergesort.h
+	<stdlib.h>
+	"geracao.h"
+
+1648122538 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6 v2\quicksort.h
+	<stdio.h>
+	"geracao.h"
+
+1648578009 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6 v2\selecao.h
+	"geracao.h"
+
+1648123057 c:\users\arthu\onedrive\documentos\puc minas\matérias\2o período\algoritmos e estruturas de dados ii\laboratórios\laboratório 6 v2\shellsort.h
+	"geracao.h"
+

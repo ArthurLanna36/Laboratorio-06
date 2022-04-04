@@ -1,0 +1,7 @@
+Tempo gasto: 0,00; Memoria gasta: 3,21
+Tempo gasto: 0,00; Memoria gasta: 3,25
+Tempo gasto: 0,02; Memoria gasta: 3,27
+Tempo gasto: 0,07; Memoria gasta: 3,31
+Tempo gasto: 0,28; Memoria gasta: 3,38
+Tempo gasto: 1,15; Memoria gasta: 3,53
+Tempo gasto: 4,44; Memoria gasta: 3,82
